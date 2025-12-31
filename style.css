@@ -1,0 +1,55 @@
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 919px;
+    background: linear-gradient(0.00deg, rgba(9.2, 8.93, 8.93, 1), rgba(16, 16, 16, 0) 100%), url(../assets/hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+
+}
+
+
+.banner-content {
+    width: 800px;
+    text-align: center;
+
+}
+
+.firt-title {
+    font-weight: bolder;
+    color: #FFFFFF;
+    opacity: 70%;
+
+
+}
+
+.t2 {
+    color: #FFFFFF;
+    font-family: "Atkinson Hyperlegible Next", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    margin: 5px;
+
+}
+
+.t3 {
+    color: #FFFFFF;
+    opacity: 70%;
+    font-size: medium;
+}
+
+.btn {
+    height: 65px;
+    width: 282px;
+    background-color: #52C303;
+    color: #FFFFFF;
+    font-weight: 500;
+    border-radius: 8px;
+    border: none;
+    font-size: 18px;
+
+}
