@@ -121,6 +121,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 200px;
 }
 
 
@@ -163,8 +164,9 @@
     background: none;
     border: none;
     border: 1px solid rgba(0, 0, 0, 0.2);
-    font-size: 35px;
+    font-size: medium;
     opacity: 80%;
+
 
 
 
@@ -172,8 +174,19 @@
 
 
 .logoimg {
+    display: flex;
+    justify-content: space-evenly;
     height: 40px;
     width: 260px;
     margin-top: 32px;
 
+}
+
+.chicken-bannertextitem p {
+    opacity: 60%;
+}
+
+.good-food {
+    width: 500px;
+    font-weight: bold;
 }
