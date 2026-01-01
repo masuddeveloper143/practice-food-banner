@@ -190,3 +190,50 @@
     width: 500px;
     font-weight: bold;
 }
+
+
+.crad4 {
+
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.crad4-containar {
+    display: flex;
+    height: 651px;
+    width: 424px;
+}
+
+.btn-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 212px;
+    height: 65px;
+    rgba(82, 195, 3, 0.15) rgba(16, 16, 16, 1);
+    font-size: medium;
+    font-weight: bold;
+}
+
+.crad4-containar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.ws {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 212px;
+    height: 65px;
+    background-color: #52C303;
+    border-radius: 8px;
+    font-size: medium;
+    font-weight: bold;
+    border: none;
+}
