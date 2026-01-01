@@ -116,3 +116,64 @@
     margin-top: 32px;
 
 }
+
+.chicken-banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.chicken-banner-contenar {
+
+    height: 671px;
+    width: 1920px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+
+
+}
+
+.chicken-bannertextitem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 398px;
+    width: 830px;
+
+}
+
+.chickenimg {
+    height: 671px;
+    width: 960px;
+    background-image: url(./assets/foods.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.btn3 {
+    height: 98px;
+    width: 1320px;
+    margin-top: 48px;
+    background: none;
+    border: none;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    font-size: 35px;
+    opacity: 80%;
+
+
+
+}
+
+
+.logoimg {
+    height: 40px;
+    width: 260px;
+    margin-top: 32px;
+
+}
