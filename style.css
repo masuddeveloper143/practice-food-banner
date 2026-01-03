@@ -215,6 +215,7 @@
     rgba(82, 195, 3, 0.15) rgba(16, 16, 16, 1);
     font-size: medium;
     font-weight: bold;
+    margin: 0;
 }
 
 .crad4-containar {
@@ -236,4 +237,9 @@
     font-size: medium;
     font-weight: bold;
     border: none;
+    margin-top: 1.5rem;
+}
+
+.crad4-containar h1 {
+    margin: 0;
 }
